@@ -10,7 +10,7 @@ def oxford_comma(array)
 end
 
 
-# original attempt below. 
+# original attempt below.
 
 # def oxford_comma(array)
 

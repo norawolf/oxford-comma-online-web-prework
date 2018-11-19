@@ -1,4 +1,5 @@
-# wanted to try again using a case statement
+# trying again using a case statement
+
 def oxford_comma(array)
   case array.length
   when 1
